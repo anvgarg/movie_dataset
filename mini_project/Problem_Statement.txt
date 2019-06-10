@@ -1,0 +1,16 @@
+The outline of ML assignment  
+
+Given the data set your task is to predict how much revenue a movie will make.
+
+Target Column - revenue
+Evaluation Criteria - Root-Mean-Squared-Logarithmic-Error (RMSLE)
+
+Deliverables:
+A Python script or Jupyter notebook detailing the steps and approach.
+Design your transformation/pipeline so that we can pass a test dataframe to get the prediction.
+
+What we will be evaluating on.
+(1) Structured thinking to solve this problem.
+(2) Data handling and featurization technique(aligned to machine learning model).
+(3) Generalization error.
+(4) Your ideas and thoughts that you can apply given enough time.
